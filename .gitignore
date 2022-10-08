@@ -1,0 +1,4 @@
+/.idea/
+/bert_pretrain/vocab.txt
+/bert_pretrain/bert_config.json
+/bert_pretrain/pytorch_model.bin
